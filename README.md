@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**PavelZinovyev/PavelZinovyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About**
 
-Here are some ideas to get you started:
+Frontend developer in HappyNumbers.com. 
+I’m currently learning Web Development Technologies in Frontend React-JS, Backend NodeJS and Databases(PostgreSQL). I really love to work with complex animations and difficult logic!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Skills**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![MOBX](https://img.shields.io/badge/mobx-FF9955?logo=mobx&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-ede8e8?logo=jQuery&logoColor=0769AD&style=for-the-badge)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-3178C6?logo=postgresql&logoColor=white&style=for-the-badge)
+
+
+**Tools**
+
+
+![GIT](https://img.shields.io/badge/GIT-DCDCDC?logo=Git&logoColor=F05032&style=for-the-badge) 
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![DOCKER](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![FIGMA](https://img.shields.io/badge/FIGMA-ede8e8?logo=figma&logoColor=F24E1E&style=for-the-badge) 
+![SLACK](https://img.shields.io/badge/slack-4A154B?logo=slack&logoColor=white&style=for-the-badge) 
+
+
+
+**Social media**
+
+
+[![Telegram Badge](https://img.shields.io/badge/-pashka_aleksandrovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pashka_aleksandrovich) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:frontenderpavel@gmail.com)
+
+
+
+
+
+
