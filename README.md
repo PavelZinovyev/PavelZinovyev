@@ -2,9 +2,7 @@
 
 **About**
 
-Frontend developer in HappyNumbers.com. 
-I’m currently learning Web Development Technologies in Frontend React-JS, Backend NodeJS and Databases(PostgreSQL). I really love to work with complex animations and difficult logic!
-
+I’m currently learning Web Development Technologies in Frontend React-JS, Backend NodeJS and Databases(PostgreSQL).
 
 **Skills**
 
