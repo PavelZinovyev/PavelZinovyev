@@ -2,7 +2,7 @@
 
 **About**
 
-I’m currently learning Web Development Technologies in Frontend React-JS, Backend NodeJS and Databases(PostgreSQL).
+Frontend dev in UCHI.RU  
 
 **Skills**
 
