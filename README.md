@@ -6,13 +6,12 @@ Frontend dev in UCHI.RU
 
 **Skills**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![MOBX](https://img.shields.io/badge/mobx-FF9955?logo=mobx&logoColor=white&style=for-the-badge)
+![MOBX](https://img.shields.io/badge/mobx-FF9955?logo=mobx&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-ede8e8?logo=jQuery&logoColor=0769AD&style=for-the-badge)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-3178C6?logo=postgresql&logoColor=white&style=for-the-badge)
 
 
 **Tools**
