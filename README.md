@@ -39,7 +39,7 @@
 **Social media**
 
 
-[![Telegram Badge](https://img.shields.io/badge/-pashka_aleksandrovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pashka_aleksandrovich) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:frontenderpavel@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:frontenderpavel@gmail.com)
 
 
 
