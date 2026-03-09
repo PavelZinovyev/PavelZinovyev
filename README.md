@@ -31,7 +31,7 @@
 ![Year](https://img.shields.io/badge/Since-2026-green?style=for-the-badge)
 
 [![My website](https://img.shields.io/badge/Visit-My%20Website-black?style=for-the-badge)](https://zinovyevpavel.vercel.app/)
-<img width="2178" height="1116" alt="image" src="https://github.com/user-attachments/assets/6734ee0e-04fc-49a4-a098-54318e3d5edd" />
+<img width="2540" height="1132" alt="image" src="https://github.com/user-attachments/assets/b40799fc-83fa-451a-bc83-4137a076a682" />
 <img width="1926" height="1626" alt="image" src="https://github.com/user-attachments/assets/72365353-afd1-46b3-b53d-5b526f9d331d" />
 <img width="1986" height="1440" alt="image" src="https://github.com/user-attachments/assets/69f09f62-4bc3-45fe-9e16-0e9a8175a520" />
 
