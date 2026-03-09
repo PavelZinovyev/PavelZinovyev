@@ -24,6 +24,7 @@ Frontend dev in Wildberries
 ![SLACK](https://img.shields.io/badge/slack-4A154B?logo=slack&logoColor=white&style=for-the-badge) 
 
 
+https://zinovyevpavel.vercel.app/
 <img width="2178" height="1116" alt="image" src="https://github.com/user-attachments/assets/6734ee0e-04fc-49a4-a098-54318e3d5edd" />
 
 
