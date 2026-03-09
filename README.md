@@ -1,9 +1,5 @@
 ### Hello there 👋
 
-**About**
-
-Frontend dev in Wildberries
-
 **Skills**
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
@@ -23,6 +19,14 @@ Frontend dev in Wildberries
 ![FIGMA](https://img.shields.io/badge/FIGMA-ede8e8?logo=figma&logoColor=F24E1E&style=for-the-badge) 
 ![SLACK](https://img.shields.io/badge/slack-4A154B?logo=slack&logoColor=white&style=for-the-badge) 
 
+
+**About**
+
+![Role](https://img.shields.io/badge/Frontend%20Developer-Wildberries-purple?style=for-the-badge&logo=react)
+<br>
+![Stack](https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20TypeScript-blue?style=for-the-badge&logo=nextdotjs)
+<br>
+![Year](https://img.shields.io/badge/Since-2026-green?style=for-the-badge)
 
 [![My website](https://img.shields.io/badge/Visit-My%20Website-black?style=for-the-badge)](https://zinovyevpavel.vercel.app/)
 <img width="2178" height="1116" alt="image" src="https://github.com/user-attachments/assets/6734ee0e-04fc-49a4-a098-54318e3d5edd" />
